@@ -80,16 +80,21 @@ figcaption {
 
 .col-1 {
   float : left;
+  width : 32%;
 }
 
 .col-2 {
   float : left;
+  width : 66%;
 }
 
 .col-3 {
-  float : ;
+  
 }
 
+[class="col-"] {
+  margin-left : 2%;
+}
 
-
-
+.first {
+  margin-left : 0%;
