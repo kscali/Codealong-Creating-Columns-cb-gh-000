@@ -78,9 +78,16 @@ figcaption {
   margin : 0 auto;
 }
 
-.call-1 {
+.col-1 {
+  float : left;
+}
 
-  
+.col-2 {
+  float : left;
+}
+
+.col-3 {
+  float : ;
 }
 
 
