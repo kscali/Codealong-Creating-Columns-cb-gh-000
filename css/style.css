@@ -79,6 +79,7 @@ img, video, audio {
 
 /* style some layout */
 * {
+  
   box-sizing : border-box;
 }
 .wrapper {
