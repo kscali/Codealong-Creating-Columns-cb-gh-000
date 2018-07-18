@@ -92,11 +92,11 @@ figcaption {
   
 }
 
-cleaerfix:after {
+clearfix:after {
   content: ".";
   display : block;
   clear : both;
-  visibiltiy : hidden;
+  visibility : hidden;
   height : 0;
   line-height : 0;
 }
